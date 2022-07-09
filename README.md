@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/dikshajain46" target="blank"><img src="https://img.shields.io/twitter/follow/dikshajain46?logo=twitter&style=for-the-badge" alt="dikshajain46" /></a> </p>
 
-<img align="right" src="image.png" width="300px">
-
  ▶ I’m currently working on **Web Based Projects**
 
  ▶ I’m currently learning **Frontend**
