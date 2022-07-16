@@ -16,11 +16,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/dikshajain46" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="dikshajain46" height="30" width="100" /></a>&nbsp;
+
 <a href="https://www.linkedin.com/in/diksha-jain-35208a241/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="diksha jain" height="30" width="100" /></a>&nbsp;
+
 <a href="https://www.hackerrank.com/jdiksha394" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="@jdiksha394" height="30" width="110" /></a>&nbsp;
+
 <a href="https://www.leetcode.com/dixa_xyz" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="dixa_xyz" height="30" width="100" /></a>&nbsp;
+
 <a href="https://codepen.io/dixa1428" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="@dixa1428" height="30" width="100" /></a>&nbsp;
-<a href="https://hashnode.com/@dikshajain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@dikshajain" height="30" width="40" /></a>&nbsp;
+
 <a href="https://auth.geeksforgeeks.org/user/jdiksha394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jdiksha394" height="30" width="40" /></a>&nbsp;
 </p>
 
