@@ -1,20 +1,24 @@
 ![Diksha jain](https://github.com/iAmDiksha/iAmDiksha/assets/89463068/4470b5d7-24f4-4cde-ab6d-a3ca5179cda9.png…)
-<h1 align="center">Hi there! I'm Diksha Jain 👋</h1>
-<h3 align="center">A girl exploring the stuffs! 🙌</h3>
 
-<h2>🌈 About Me:</h2>
- ▶ I’m currently working on <b>Web Based Projects</b>
- 
- ▶ I’m currently learning **MERN Stack**
+<h1 align="center">Hi, I'm Diksha Jain 👋</h1>
 
- ▶ Feel free to reach out to me at <a href="https://twitter.com/dikshaJain46">**Twitter**</a>
+I'm a curious and enthusiastic developer exploring the world of web development. Currently, I'm working on web-based projects and learning new technologies.
 
-<h2 align="left">🙌 Let's Connect</h2>
-<p align="left">
-<a href="https://twitter.com/dikshajain46" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="dikshajain46" height="30" width="100" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/diksha-jain-35208a241/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="diksha jain" height="30" width="100" /></a>&nbsp;&nbsp;
+## About Me
 
-<h2 align="left">👩‍💻 Tech Stack:</h2>
+*   I'm a Student with a passion for coding and problem-solving.
+*   I’m currently learning **MERN Stack**
+*   I write blogs on [Hashnode](https://hashnode.com/@dikshajain)
+*   I'm excited to collaborate with other developers on open-source projects.
+
+## Connect With Me
+
+*   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dikshajain/)
+*   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dikshaJain46)
+*   [![GitHub Followers](https://img.shields.io/github/followers/iAmDiksha?style=social)](https://github.com/iAmDiksha)
+
+
+## 👩‍💻 Tech Stack
 <p align="left"> 
  <img height="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png">
  &nbsp;
@@ -31,15 +35,13 @@
   <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
 </p>
 
-<h2>📊 GitHub Stats:</h2>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamdiksha&show_icons=true&locale=en&theme=dark" alt="iamdiksha" />
-</p>
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamdiksha&show_icons=true&locale=en&layout=compact&theme=dark" alt="iamdiksha" />
-</p>
+[![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdiksha&show_icons=true&theme=radical)](https://github.com/iamdiksha)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdiksha&label=Profile%20views&color=0e75b6&style=flat" alt="iamdiksha" /> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdiksha&layout=compact&theme=radical)](https://github.com/iamdiksha)
 
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamdiksha&theme=radical)](https://github.com/iamdiksha)
+
+[![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamdiksha&theme=radical)](https://github.com/iamdiksha)
 
