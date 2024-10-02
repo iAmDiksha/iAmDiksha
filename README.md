@@ -13,8 +13,8 @@ I'm a curious and enthusiastic developer exploring the world of web development.
 
 ## Connect With Me
 
-*   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dikshajain/)
-*   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dikshaJain46)
+*   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-dikshajain)
+*   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/dikshajain46)
 *   [![GitHub Followers](https://img.shields.io/github/followers/iAmDiksha?style=social)](https://github.com/iAmDiksha)
 
 
@@ -32,3 +32,4 @@ I'm a curious and enthusiastic developer exploring the world of web development.
 
 [![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamdiksha&theme=radical)](https://github.com/iamdiksha)
 
+> ### "Believe you can and you're halfway there." - Theodore Roosevelt
