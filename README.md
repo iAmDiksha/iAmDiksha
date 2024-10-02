@@ -19,21 +19,8 @@ I'm a curious and enthusiastic developer exploring the world of web development.
 
 
 ## 👩‍💻 Tech Stack
-<p align="left"> 
- <img height="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png">
- &nbsp;
- <img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png">
- &nbsp;
- <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
- &nbsp;
- <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
- &nbsp;
- <img height="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"> 
- &nbsp;
-  <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
- &nbsp;
-  <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,c,cpp,java,mysql&perline=4)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
