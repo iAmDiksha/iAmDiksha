@@ -8,6 +8,7 @@ I'm a curious and enthusiastic developer exploring the world of web development.
 
 *   I'm a Student with a passion for coding and problem-solving.
 *   I’m currently learning **MERN Stack**
+*   I'm an Open Source Contributor @ Hactoberfest'24 and GSSOC-EXTD'24.
 *   I write blogs on [Hashnode](https://hashnode.com/@dikshajain)
 *   I'm excited to collaborate with other developers on open-source projects.
 
@@ -20,13 +21,15 @@ I'm a curious and enthusiastic developer exploring the world of web development.
 
 ## 👩‍💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,c,cpp,java,mysql&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,react,nodejs,expressjs,mongodb,postman,c,cpp,java,mysql&perline=5)](https://skillicons.dev)
+
+## 🎉 Badges
+
+[![An image of @iamdiksha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamdiksha)](https://holopin.io/@iamdiksha)
 
 ## 📊 GitHub Stats
 
 [![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdiksha&show_icons=true&theme=radical)](https://github.com/iamdiksha)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdiksha&layout=compact&theme=radical)](https://github.com/iamdiksha)
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamdiksha&theme=radical)](https://github.com/iamdiksha)
 
