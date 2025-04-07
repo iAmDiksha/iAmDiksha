@@ -11,6 +11,7 @@ I'm a curious and enthusiastic developer exploring the world of web development.
 *   I'm an Open Source Contributor @ Hactoberfest'24 and GSSOC-EXTD'24.
 *   I write blogs on [Hashnode](https://hashnode.com/@dikshajain)
 *   I'm excited to collaborate with other developers on open-source projects.
+*   I'm currently learning DSA and following #gfg160 challenge on Twitter(X).
 
 ## Connect With Me
 
